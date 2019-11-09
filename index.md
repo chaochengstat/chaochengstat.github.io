@@ -1,7 +1,7 @@
 ## Publications and Manuscripts
 
-Cheng, C., Wang, R., Zhang, H., 2019+, Surrogate Residuals for Discrte Choice Models. (under revision by
-Journal of Computational and Graphical Statistics, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/edit/master/index.md), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/edit/master/index.md))
+Cheng, Chao, Wang, Rui, Zhang, Heping*, 2019+, Surrogate Residuals for Discrte Choice Models. under revision by
+Journal of Computational and Graphical Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/edit/master/index.md), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/edit/master/index.md))
 
 You can use the [editor on GitHub](https://github.com/chaochengstat/chaochengstat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
