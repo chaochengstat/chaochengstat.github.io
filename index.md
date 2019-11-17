@@ -6,18 +6,18 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 
 ## Publications and Preprints
 
-Chao Cheng, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under major revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R codes](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
+**Chao Cheng**, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under major revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R codes](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
 
-Chao Cheng, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrte Choice Models. Under major revision by
+**Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrte Choice Models. Under major revision by
 Journal of Computational and Graphical Statistics)([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf))
 
-Chao Cheng, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
+**Chao Cheng**, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
 Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/pooling%20data%20for%20case%20control.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp%20pooling%20data%20for%20case%20control.pdf))
 
-Chao Cheng, Man Wang, Kun Chen. Forecasting Realized Volatility in Presence of Structure Break: A New Forecast Combination Approach. (working paper, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/draft%20by%20Chao.pdf))
+**Chao Cheng**, Man Wang, Kun Chen. Forecasting Realized Volatility in Presence of Structure Break: A New Forecast Combination Approach. (working paper, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/draft%20by%20Chao.pdf))
 
-Man Wang, Kun Chen, Qin Luo, Chao Cheng. (2018). Multi-Step Inflation Prediction with Functional Coefficient Autoregressive Model. Sustainability, 10(6), p.1691. ([manuscript](https://www.mdpi.com/2071-1050/10/6/1691/pdf))
+Man Wang, Kun Chen, Qin Luo, **Chao Cheng**. (2018). Multi-Step Inflation Prediction with Functional Coefficient Autoregressive Model. Sustainability, 10(6), p.1691. ([manuscript](https://www.mdpi.com/2071-1050/10/6/1691/pdf))
 
-Mengyi Shen, Chao Cheng, Chuan Huang. (2017) The Application of Non-manual Data in Targeted Poverty Alleviation. The World of Survey and Research, 12, 43-48. (written in Chinese)
+Mengyi Shen, **Chao Cheng**, Chuan Huang. (2017) The Application of Non-manual Data in Targeted Poverty Alleviation. The World of Survey and Research, 12, 43-48. (written in Chinese)
 
 
