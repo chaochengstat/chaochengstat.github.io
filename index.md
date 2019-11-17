@@ -16,8 +16,8 @@ Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://githu
 
 **Chao Cheng**, Man Wang, Kun Chen. Forecasting Realized Volatility in Presence of Structure Break: A New Forecast Combination Approach. (working paper, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/draft%20by%20Chao.pdf))
 
-Man Wang, Kun Chen, Qin Luo, **Chao Cheng**. (2018). Multi-Step Inflation Prediction with Functional Coefficient Autoregressive Model. Sustainability, 10(6), p.1691. ([manuscript](https://www.mdpi.com/2071-1050/10/6/1691/pdf))
+Man Wang, Kun Chen, Qin Luo, **Chao Cheng**. (2018). Multi-Step Inflation Prediction with Functional Coefficient Autoregressive Model. Sustainability, 10(6), p.1691. ([link](https://www.mdpi.com/2071-1050/10/6/1691))
 
-Mengyi Shen, **Chao Cheng**, Chuan Huang. (2017) The Application of Non-manual Data in Targeted Poverty Alleviation. The World of Survey and Research, 12, 43-48. (written in Chinese)
+Mengyi Shen, **Chao Cheng**, Chuan Huang. (2017). The Application of Non-manual Data in Targeted Poverty Alleviation. The World of Survey and Research, 12, 43-48. (written in Chinese)
 
 
