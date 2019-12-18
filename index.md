@@ -14,6 +14,8 @@ Journal of Computational and Graphical Statistics. ([manuscript](https://github.
 **Chao Cheng**, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
 Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/pooling%20data%20for%20case%20control.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp%20pooling%20data%20for%20case%20control.pdf))
 
+Abigail Sloan, **Chao Cheng**, Bernard Rosner, Regina G. Ziegler, Stephanie A. Smith-Warner, Molin Wang. A repeated measures approach to pooled and calibrated biomarker data. To be submitted.
+
 **Chao Cheng**, Man Wang, Kun Chen. Forecasting Realized Volatility in Presence of Structure Break: A New Forecast Combination Approach. (working paper, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/draft%20by%20Chao.pdf))
 
 Man Wang, Kun Chen, Qin Luo, **Chao Cheng**. (2018). Multi-Step Inflation Prediction with Functional Coefficient Autoregressive Model. Sustainability, 10(6), p.1691. ([link](https://www.mdpi.com/2071-1050/10/6/1691))
