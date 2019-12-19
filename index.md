@@ -11,7 +11,7 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 **Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrte Choice Models. Under major revision by
 Journal of Computational and Graphical Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/residual%20DCM%20codes%20revision%201.R))
 
-**Chao Cheng**, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
+**Chao Cheng**, Abigail Sloan, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
 Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/pooling%20data%20for%20case%20control.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp%20pooling%20data%20for%20case%20control.pdf))
 
 Abigail Sloan, **Chao Cheng**, Bernard Rosner, Regina G. Ziegler, Stephanie A. Smith-Warner, Molin Wang. A repeated measures approach to pooled and calibrated biomarker data. To be submitted.
