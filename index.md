@@ -11,7 +11,7 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 **Chao Cheng**, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under major revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R code](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
 
 **Chao Cheng**, Abigail Sloan, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
-Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/pooling%20data%20for%20case%20control.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp%20pooling%20data%20for%20case%20control.pdf))
+Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/main_paper_19Dec19.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp_material_19Dec19.pdf))
 
 Abigail Sloan, **Chao Cheng**, Bernard Rosner, Regina G. Ziegler, Stephanie A. Smith-Warner, Molin Wang. A repeated measures approach to pooled and calibrated biomarker data. To be submitted.
 
