@@ -1,4 +1,4 @@
-## Personal Information
+## About Me
 
 My name is **Chao Cheng** (Chinese: **程超**). Currently, I am a Postgraduate Associate in the Department of Biostatistics at Yale University under the supervision of Prof. [Donna Spiegelman](https://publichealth.yale.edu/cmips/profile/donna_spiegelman/). My research interests mainly focus on measurement error correction, statistical genetics and biostatistical methods. I am also interested in time series analysis and its application on financal datasets. 
 
@@ -6,7 +6,7 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 
 ## Publications and Preprints
 
-**Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrte Choice Models. Journal of Computational and Graphical Statistics. (Accepted, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/residual%20DCM%20codes%20revision%201.R))
+**Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrete Choice Models. Journal of Computational and Graphical Statistics. (Accepted, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/residual%20DCM%20codes%20revision%201.R))
 
 **Chao Cheng**, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under major revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R code](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
 
