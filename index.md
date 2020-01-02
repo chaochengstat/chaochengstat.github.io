@@ -6,14 +6,16 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 
 ## Publications and Preprints
 
+
+
 **Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrete Choice Models. Journal of Computational and Graphical Statistics. (Accepted, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/residual%20DCM%20codes%20revision%201.R))
 
-**Chao Cheng**, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under major revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R code](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
+**Chao Cheng**, Bernard Rosner, Molin Wang. (2019+) Statistical Methods for Analysis of Combined Categorical Biomarker Data from Multiple Studies. Under minor revision by Annals of Applied Statistics. ([manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_main.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/cate_pooled_supp.pdf), [R code](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/490/2019/04/R-code-for-cate-pooled.txt))
 
 **Chao Cheng**, Abigail Sloan, Molin Wang. Statistical Methods for Analysis of Combined Biomarker Data from
 Multiple Nested Case-Control Studies. To be submitted. ([preprint](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/main_paper_19Dec19.pdf), [supplemantary material](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/supp_material_19Dec19.pdf))
 
-Abigail Sloan, **Chao Cheng**, Bernard Rosner, Regina G. Ziegler, Stephanie A. Smith-Warner, Molin Wang. A repeated measures approach to pooled and calibrated biomarker data. To be submitted.
+Abigail Sloan, **Chao Cheng**, Bernard Rosner, Regina G. Ziegler, Stephanie A. Smith-Warner, Molin Wang. A Repeated Measures Approach to Pooled and Calibrated Biomarker Data. To be submitted.
 
 **Chao Cheng**, Man Wang, Kun Chen. Forecasting Realized Volatility in Presence of Structure Break: A New Forecast Combination Approach. (working paper, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/draft%20by%20Chao.pdf))
 
