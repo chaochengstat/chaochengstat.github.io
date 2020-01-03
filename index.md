@@ -6,7 +6,7 @@ Before coming to Yale, I obtained a Master degree in Applied Statistics from Tsi
 
 ## Publications and Preprints
 
-
+Testing for Gene-Environment Interactions in the Presence of Mismeasured Environmental Exposures (with Molin Wang, Zuoheng Wang and Donna Spiegelman; manuscript completed)
 
 **Chao Cheng**, Rui Wang, Heping Zhang. (2019+). Surrogate Residuals for Discrete Choice Models. Journal of Computational and Graphical Statistics. (Accepted, [manuscript](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/JCGS-19-067.R1_Proof_hi.pdf), [R code](https://github.com/chaochengstat/chaochengstat.github.io/blob/master/residual%20DCM%20codes%20revision%201.R))
 
